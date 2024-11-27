@@ -1,0 +1,1 @@
+This is a simple sql code, that allows a developer to not only populate tables within a database, but will also allow them to query the database as well. The code takes the form of a car dealership's database, with dealerships, customers, vehicles, and contracts. The code also will drop and then repopulate the tables, as to not double up any entries.
